@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1370610312 source:d:\info edi scoala\fractal exemplu\winbgi2.cpp
+	<windows.h>
+	<stddef.h>
+	<stdio.h>
+	<math.h>
+	"graphics2.h"
+
+1370610280 d:\info edi scoala\fractal exemplu\graphics2.h
+
+1609838680 source:d:\info edi scoala\fractal exemplu\main.cpp
+	"graphics2.h"
+	<cmath>
+
+1609849869 source:d:\info edi scoala\fractal newton\main.cpp
+	"graphics2.h"
+	<cmath>
+
+1370610280 d:\info edi scoala\fractal newton\graphics2.h
+
+1370610312 source:d:\info edi scoala\fractal newton\winbgi2.cpp
+	<windows.h>
+	<stddef.h>
+	<stdio.h>
+	<math.h>
+	"graphics2.h"
+
